@@ -8,7 +8,7 @@
 
 ### Projetos
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=Dani-OLiver&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=Dani-OLiver&repo=Vari-vel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Linguagens utilizadas
 
