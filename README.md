@@ -4,5 +4,5 @@ Estou em fazer de aprendizagem em Javascript
 
 ### Detalhes
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=Dani-Oiver&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=Dani-Oliver&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
