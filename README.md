@@ -1,9 +1,9 @@
-## Olá 👋
+###### Sobre o Daniel
 
-### Pazer Daniel OLiveira
+7 anos de experiência no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento mobile, web, automações e outros.
 
 
 ### Detalhes
 
-[!(httpsgithub-readme-stats.vercel.appapiusername=Dani-OLiver&Show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=Dani-Oiver&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
