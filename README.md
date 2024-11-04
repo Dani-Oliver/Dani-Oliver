@@ -1,6 +1,5 @@
 ###### Sobre o Daniel
-
-7 anos de experiência no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento mobile, web, automações e outros.
+Estou em fazer de aprendizagem em Javascript
 
 ### Detalhes
 
